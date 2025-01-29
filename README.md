@@ -1,4 +1,4 @@
-Question
+Question :-
 Find Employee with Highest Salary:
 Filter Employees with Salary Greater Than 5000:
 Get Employee Names and Salaries:
@@ -14,5 +14,5 @@ Find Top 3 Highest Paid Employees:
  Calculate Total Salary of All Employees Using Reduce:
 Please work on it and upload to git hub
 
-Tasks
+Tasks :-
 date time and optional class
